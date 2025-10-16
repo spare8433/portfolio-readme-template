@@ -76,15 +76,12 @@
 
 <!-- 프로젝트 소개 부분 -->
 
-<h2 id="프로젝트-소개">
-  <a href="#프로젝트 소개">프로젝트 소개</a>
-</h2>
+## 프로 젝트 소개
+
 
 <br />
 
-<h3 id="개발-동기">
-  <a href="#개발-동기">개발 동기</a>
-</h3>
+### 개발 동기
 
 - 왜 이 프로젝트를 시작했는지
 - 어떤 문제를 해결하고자 했는지
@@ -92,9 +89,7 @@
 
 <br />
 
-<h3 id="프로젝트-개요">
-  <a href="#프로젝트-개요">프로젝트 개요</a>
-</h3>
+### 프로젝트 개요
 
 - **개발 기간**: YYYY.MM ~ YYYY.MM (X개월)
 - **개발 인원**: 1인 (개인 프로젝트)
@@ -112,9 +107,7 @@
 
 <!-- 주요 기능 -->
 
-<h2 id="주요-기능">
-  <a href="#주요 기능">주요 기능</a>
-</h2>
+## 주요 기능
 
 <br />
 
@@ -147,11 +140,9 @@
 
 <!-- 기술 스택 -->
 
-<h2 id="기술-스택">
-  <a href="#기술 스택">기술 스택</a>
-</h2>
+## 기술 스택
 
-<h3>Frontend</h3>
+### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -163,7 +154,7 @@
 
 <br />
 
-<h3>Backend</h3>
+### Backend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -174,7 +165,7 @@
 
 <br />
 
-<h3>DevOps</h3>
+### DevOps
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -190,13 +181,11 @@
 
 <!-- 시작하기 -->
 
-<h2 id="시작하기">
-  <a href="#시작하기">시작하기</a>
-</h2>
+## 시작하기
 
 <br />
 
-<h3 id="요구사항"><a href="#요구사항">요구사항</a></h3>
+### 요구 사항
 
 - Node.js 18.x 이상
 - npm 또는 yarn
@@ -204,7 +193,7 @@
 
 <br />
 
-<h3 id="설치-및-실행"><a href="#설치 및 실행">설치 및 실행</a></h3>
+### 설치 및 실행
 
 #### 1. 저장소 클론
 
@@ -266,9 +255,7 @@ yarn dev
 
 <!-- 프로젝트 구조 -->
 
-<h2 id="프로젝트-구조">
-  <a href="#프로젝트 구조">프로젝트 구조</a>
-</h2>
+## 프로젝트 구조
 
 <br />
 
@@ -305,9 +292,7 @@ project-name/
 
 <!-- 주요 구현 사항 -->
 
-<h2 id="주요-구현-사항">
-  <a href="#주요 구현 사항">주요 구현 사항</a>
-</h2>
+## 주요 구현 사항
 
 <br />
 
@@ -370,9 +355,7 @@ const { data, isLoading } = useQuery({
 
 <!-- 트러블슈팅 -->
 
-<h2 id="트러블슈팅">
-  <a href="#트러블슈팅">트러블슈팅</a>
-</h2>
+## 트러블슈팅
 
 <br />
 
@@ -418,17 +401,13 @@ const { data, isLoading } = useQuery({
 
 <br /><br />
 
-<!-- 개발리뷰 -->
+<!-- 개발 리뷰 -->
 
-<h2 id="개발-리뷰">
-  <a href="#개발 리뷰">개발 리뷰</a>
-</h2>
+## 개발 리뷰
 
 <br />
 
-<h3 id="배운-점">
-  <a href="#배운 점">배운 점</a>
-</h3>
+### 배운 점
 
 - **기술적 학습**
 
@@ -439,9 +418,7 @@ const { data, isLoading } = useQuery({
   - 프론트/백 통합 개발로 전체 플로우 이해도 향상
   - CI/CD 구축으로 배포 자동화의 중요성 체감
 
-<h3 id="아쉬운-점">
-  <a href="#아쉬운 점">아쉬운 점</a>
-</h3>
+## 아쉬운 점
 
 - **테스트 코드 부재**
 
@@ -454,9 +431,7 @@ const { data, isLoading } = useQuery({
 
 <br />
 
-<h3 id="개선-방안">
-  <a href="#개선 방안">개선 방안</a>
-</h3>
+### 개선 방안
 
 - [ ] Jest + React Testing Library 도입
 - [ ] 모바일 레이아웃 최적화
